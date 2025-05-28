@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:ecommerce_sakinah/addproduct.dart';
+import 'package:Mobile_ECommerce/addproduct.dart';
 
 class AllProduct extends StatefulWidget {
   const AllProduct({super.key});

@@ -1,4 +1,4 @@
-import 'package:ecommerce_sakinah/homescreen.dart';
+import 'package:Mobile_ECommerce/homescreen.dart';
 import 'package:flutter/material.dart';
 
 class OnboardingScreen extends StatefulWidget {

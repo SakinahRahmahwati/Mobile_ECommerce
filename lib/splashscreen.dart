@@ -1,13 +1,13 @@
 import 'dart:async';
 
-import 'package:ecommerce_sakinah/allproduct.dart';
-import 'package:ecommerce_sakinah/gridbajupria.dart';
-import 'package:ecommerce_sakinah/gridbajuwanita.dart';
-import 'package:ecommerce_sakinah/gridsepatupria.dart';
-import 'package:ecommerce_sakinah/gridsepatuwanita.dart';
-import 'package:ecommerce_sakinah/homescreen.dart';
+import 'package:Mobile_ECommerce/allproduct.dart';
+// import 'package:Mobile_ECommerce/gridbajupria.dart';
+// import 'package:Mobile_ECommerce/gridbajuwanita.dart';
+// import 'package:Mobile_ECommerce/gridsepatupria.dart';
+// import 'package:Mobile_ECommerce/gridsepatuwanita.dart';
+// import 'package:Mobile_ECommerce/homescreen.dart';
 import 'package:flutter/material.dart';
-import 'gridelectronics.dart';
+// import 'gridelectronics.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

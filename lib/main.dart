@@ -1,7 +1,7 @@
-import 'package:ecommerce_sakinah/gridbajupria.dart';
-import 'package:ecommerce_sakinah/homescreen.dart';
-import 'package:ecommerce_sakinah/onboardingscreen.dart';
-import 'package:ecommerce_sakinah/splashscreen.dart';
+// import 'package:Mobile_ECommerce/gridbajupria.dart';
+// import 'package:Mobile_ECommerce/homescreen.dart';
+import 'package:Mobile_ECommerce/onboardingscreen.dart';
+// import 'package:Mobile_ECommerce/splashscreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

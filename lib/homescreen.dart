@@ -1,12 +1,12 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:ecommerce_sakinah/gridbajupria.dart';
-import 'package:ecommerce_sakinah/gridbajuwanita.dart';
-import 'package:ecommerce_sakinah/gridelectronics.dart';
-import 'package:ecommerce_sakinah/gridsepatupria.dart';
-import 'package:ecommerce_sakinah/gridsepatuwanita.dart';
-import 'package:ecommerce_sakinah/onboardingscreen.dart';
+import 'package:Mobile_ECommerce/gridbajupria.dart';
+import 'package:Mobile_ECommerce/gridbajuwanita.dart';
+import 'package:Mobile_ECommerce/gridelectronics.dart';
+import 'package:Mobile_ECommerce/gridsepatupria.dart';
+import 'package:Mobile_ECommerce/gridsepatuwanita.dart';
+import 'package:Mobile_ECommerce/onboardingscreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
